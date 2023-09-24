@@ -1,0 +1,43 @@
+- Segunda parte da APS
+- Partes da APS
+  - 2.a
+  - 2.b.i
+  - 3.a
+  - 4(a,b,c e d) apenas para a solucao apresentada em 2.b.i
+
+  - em formato pdf
+  - bibliografia
+  - ABNT
+  - no maximo 10 integrantes
+  - Os codigos fontes desenvolvidos deverao ser descritos no apendice do documento que podera ser uma continuacao do documento entregue anteriormente
+  - Apenas o lider do grupo precisa fazer a entrega
+  - 2 pontos NP1
+
+APS
+2) Referencial teórico:
+a) descrição formal do problema computacional a ser resolvido
+b) apresentação dos conceitos utilizados no desenvolvimento computacional da
+solução .
+i. Computação gráfica
+ii. Aprendizado de máquina
+
+3) Proposta: apresentar soluções para o problema utilizando cada um os métodos
+abaixo:
+a. A - uso de filtros e detecção de padrões
+b. B - uso de aprendizado profundo
+
+4) Desenvolvimento: detalhamento da solução:
+a. descrever como foram implantados os métodos utilizados
+b. listar as ferramentas utilizadas
+c. descrever como foram feitos os testes
+d. mostrar os resultados obtido
+
+
+title VIGIA
+
+participant Entrada as input
+participant Analizador as analyzer
+participant Backup as bckp
+
+input ->+ analyzer: Em analize
+analyzer ->+ bckp: imagem pos-processamento
